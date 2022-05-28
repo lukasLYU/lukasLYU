@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lukasLYU
+- I’m interested in advanced programming projects, baisiclly, a challange.
+- I’m currently learning graphics optimization algorithms, like quadtrees, octrees for AI.
